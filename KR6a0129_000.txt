@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 須摩提女經
+#+DATE: 2015-08-30 19:32:33.173312
+#+PROPERTY: JUAN 0
